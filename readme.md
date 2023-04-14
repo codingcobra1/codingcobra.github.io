@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial.
 Adding changes to the file in github editor.
 
 To learn how to utilize the editor on the site.
+
+Making another change here.
